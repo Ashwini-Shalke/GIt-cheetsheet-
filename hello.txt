@@ -6,9 +6,9 @@ This is a sample hello.txt file
 Here I will add the list of fruits :- 
 
 1. Apple
-2. Mango
 3. Orange
 4. WaterMelon
 5. Grapes
+6. Kiwi
 
 
