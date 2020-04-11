@@ -12,3 +12,10 @@ Here I will add the list of fruits :-
 6. Kiwi
 
 
+// adding few more fruits
+
+7. Papaya
+8. Cherry
+
+
+
